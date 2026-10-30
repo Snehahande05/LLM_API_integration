@@ -1,0 +1,10 @@
+ILLUSTRATIVE SAMPLE ONLY — NOT A LIVE API EXECUTION
+
+$ python3 main.py --file sample_input.txt
+
+=== BULLET-POINT SUMMARY ===
+- AI tools help farmers access weather forecasts, crop prices, and crop-disease warnings.
+- Digital agriculture can improve planning and reduce uncertainty.
+- Poor connectivity, language barriers, and limited digital skills remain challenges.
+
+Run the script using your own API key and take a genuine screenshot for final submission.
